@@ -7,3 +7,10 @@ This is not actually my server. But thank you anyways. And I removed path from e
 also works: git -c http.sslVerify=false clone https://url instead of step 1 – rubo77 Sep 8 '16 at 10:55
   	 	
 This answer also has some great explanations on the options. stackoverflow.com/a/11622001 – dragon788 Jun 27 at 19:09
+
+Google
+https://www.google.co.za/
+Google.co.za offered in: Afrikaans Sesotho isiZulu IsiXhosa Setswana Northern Sotho · Advertising ProgramsBusiness SolutionsAbout GoogleGoogle.com.
+Images
+Google Images. The most comprehensive image search ...
+Google 
