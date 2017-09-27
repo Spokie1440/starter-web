@@ -1,0 +1,9 @@
+Good solution for cases when you could not lock global config file .gitconfig: Permission denied – antongorodezkiy Jul 29 '15 at 23:03
+  	 	
+If you have Permission denied on .gitconfig there is something seriously ske*ed with your system. Your $HOME should be available to you (which is where .gitconfig should be, shouldn't it?). – mcepl Jul 30 '15 at 8:27
+  	 	
+This is not actually my server. But thank you anyways. And I removed path from error message, actually on that server git is trying to access .gitconfig somewhere in /var/www/... – antongorodezkiy Jul 30 '15 at 19:36
+6	 	
+also works: git -c http.sslVerify=false clone https://url instead of step 1 – rubo77 Sep 8 '16 at 10:55
+  	 	
+This answer also has some great explanations on the options. stackoverflow.com/a/11622001 – dragon788 Jun 27 at 19:09
