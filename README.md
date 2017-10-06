@@ -5,6 +5,8 @@ A simple websit project for showing how to use Git and GitHub together.
 
 ## Introduction
 
+Various commands using a web project
+
 ## Purpose
 
 ## Deployment
